@@ -64,7 +64,7 @@ refs/
 Open and knit the ```seurat.Rmd``` file in RStudio, or run:
 
 ```r
-Rscript -e "rmarkdown::render('final_project_sc_rna_analysis.Rmd')"
+Rscript -e "rmarkdown::render('seurat.Rmd')"
 ```
 
 This will produce an HTML report with embedded code, figures, and results.
