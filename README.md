@@ -130,5 +130,4 @@ This will produce an HTML report with embedded code, figures, and results.
 - Figures for QC, UMAP, integration, pseudotime, DE analyses.
 
 ## Reference
-Bondoc A., Glaser K., Jin K., et al. Identification of distinct tumor cell populations and key genetic mechanisms through single cell sequencing in hepatoblastoma. *Communications Biology* **4**, 1049 (2021). DOI: 10.1038/s42003-021-02562-8
->>>>>>> 1745ae9d359adaeab4470d3a6fdfa73244c950ed
+Bondoc, A., Glaser, K., Jin, K., Lake, C., Cairo, S., Geller, J., ... & Aronow, B. (2021). Identification of distinct tumor cell populations and key genetic mechanisms through single cell sequencing in hepatoblastoma. *Communications Biology, 4*(1), 1049.
