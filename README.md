@@ -61,7 +61,7 @@ refs/
 
 ## Running the Pipeline
 
-Open and knit the ```final_project_sc_rna_analysis.Rmd``` file in RStudio, or run:
+Open and knit the ```seurat.Rmd``` file in RStudio, or run:
 
 ```r
 Rscript -e "rmarkdown::render('final_project_sc_rna_analysis.Rmd')"
