@@ -1,5 +1,5 @@
 # scRNA-seq Analysis Pipeline
-This repository contains an R-based single-cell RNA-seq (scRNA-seq) analysis pipeline implemented in R Markdown. The workflow covers data loading, quality control, filtering, normalization, feature selection, dimensionality reduction, clustering, integration, cell-type annotation, pseudotime inference, and downstream analyses such as differential expression and cell proportion comparison. The pipeline was developed and tested on hepatoblastoma datasets from Bondoc *et al.* (2021).
+This repository contains an R-based single-cell RNA-seq (scRNA-seq) analysis pipeline implemented in R Markdown, with core data processing and clustering performed using the Seurat R package. The workflow covers data loading, quality control, filtering, normalization, feature selection, dimensionality reduction, clustering, integration, cell-type annotation, pseudotime inference, and downstream analyses such as differential expression and cell proportion comparison. The pipeline was developed and tested on hepatoblastoma datasets from Bondoc *et al.* (2021).
 
 ## Table of Contents
 
